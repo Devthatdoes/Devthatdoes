@@ -1,0 +1,19 @@
+name: Topic Icons
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  generate-topics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate topic icons
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.topics.icons.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 8
+          plugin_topics_mode: icons
