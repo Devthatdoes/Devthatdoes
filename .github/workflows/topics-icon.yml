@@ -15,5 +15,5 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_topics: yes
-          plugin_topics_limit: 8
+          plugin_topics_limit: 12
           plugin_topics_mode: icons
