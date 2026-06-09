@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 
-![SVG Image](https://github.com/Devthatdoes/Devthatdoes/blob/main/metrics.plugin.languages.details.svg)
-![SVG Image](https://github.com/Devthatdoes/Devthatdoes/blob/main/metrics.plugin.topics.icons.svg)
-![SVG Image](https://github.com/Devthatdoes/Devthatdoes/blob/main/metrics.plugin.stars.svg)
+![SVG Image](https://github.com/Devthatdoes/Devthatdoes/raw/main/metrics.plugin.languages.details.svg)
+![SVG Image](https://github.com/Devthatdoes/Devthatdoes/raw/main/metrics.plugin.topics.icons.svg)
+![SVG Image](https://github.com/Devthatdoes/Devthatdoes/raw/main/metrics.plugin.stars.svg)
 
 <!--
 **Devthatdoes/Devthatdoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
