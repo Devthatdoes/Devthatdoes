@@ -1,4 +1,4 @@
-name: Most used (with details)
+name: Recently Used Languages
 on:
   schedule:
     - cron: '0 0 * * *'  # Daily at midnight
