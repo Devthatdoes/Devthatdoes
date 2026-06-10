@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-![SVG Image](https://github.com/Devthatdoes/Devthatdoes/raw/main/metrics.plugin.languages.details.svg)
+![SVG Image](https://github.com/Devthatdoes/Devthatdoes/raw/main/metrics.plugin.languages.recent.svg)
 ![SVG Image](https://github.com/Devthatdoes/Devthatdoes/raw/main/metrics.plugin.topics.icons.svg)
 ![SVG Image](https://github.com/Devthatdoes/Devthatdoes/raw/main/metrics.plugin.stars.svg)
 
