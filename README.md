@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=D3F7BB&width=435&lines=Constantly+doing;And+learning+to+do+more)](https://git.io/typing-svg)
 
+![SVG Image](https://github.com/Devthatdoes/Devthatdoes/raw/main/metrics.plugin.stars.svg)
 ![SVG Image](https://github.com/Devthatdoes/Devthatdoes/raw/main/metrics.terminal.svg)
 ![SVG Image](https://github.com/Devthatdoes/Devthatdoes/raw/main/metrics.plugin.languages.recent.svg)
 ![SVG Image](https://github.com/Devthatdoes/Devthatdoes/raw/main/metrics.plugin.topics.icons.svg)
-![SVG Image](https://github.com/Devthatdoes/Devthatdoes/raw/main/metrics.plugin.stars.svg)
 
 <!--
 **Devthatdoes/Devthatdoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
