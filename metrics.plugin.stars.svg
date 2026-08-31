@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>prometheus-community/ansible</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Ansible Collection for Prometheus</div>
@@ -76,7 +76,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NVIDIA/dcgm-exporter</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">NVIDIA GPU metrics exporter for Prometheus leveraging DCGM</div>
@@ -129,7 +129,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>prometheus/node_exporter</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Exporter for machine metrics</div>
