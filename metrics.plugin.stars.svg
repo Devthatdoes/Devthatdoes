@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>loft-sh/vcluster</span>
-                                        <span>starred 23 days ago</span>
+                                        <span>starred 24 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">vCluster creates tenant clusters: fully isolated environments delivered as managed Kubernetes, or as the foundation for Slurm, Ray, Run:ai and inference clusters. Each gets its own API server, CRDs and RBAC, and runs on an existing cluster or standalone on bare metal. CNCF Certified Kubernetes.</div>
@@ -76,7 +76,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>prometheus-community/ansible</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Aug 27 2026</span>
                                     </div>
                                 </div>
                                 <div class="field description">Ansible Collection for Prometheus</div>
@@ -129,7 +129,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NVIDIA/dcgm-exporter</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Aug 27 2026</span>
                                     </div>
                                 </div>
                                 <div class="field description">NVIDIA GPU metrics exporter for Prometheus leveraging DCGM</div>
